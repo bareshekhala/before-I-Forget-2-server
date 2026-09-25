@@ -16,10 +16,14 @@ datasource db {
 }
 
 model User {
-  id        String   @id @default(uuid())
-  email     String   @unique
+  id        String     @id @default(uuid())
+  email     String     @unique
   name      String?
-  createdAt DateTime @default(now())
+  createdAt DateTime   @default(now())
+  favBooks  favBook[]
+  favMovies favMovie[]
+  favSongs  favSong[]
+  myMinds   myMind[]
 }
 
 model Book {
@@ -30,7 +34,7 @@ model Book {
   image       String?
   category    String
   pageCount   Int?
-  moodId       Int[]
+  moods Mood[]
 }
 
 model Movie {
@@ -39,7 +43,7 @@ model Movie {
   category    String
   overview    String?
   poster_path String?
-  moodId       Int[]
+  moods Mood[]
 }
 
 model Song {
@@ -48,7 +52,7 @@ model Song {
   singerOrComposer String
   image            String?
   url              String?
-  moodId       Int[]
+  moods Mood[]
 }
 
 model myMind {
@@ -58,7 +62,10 @@ model myMind {
   description String?
   category    String
   date        DateTime?
-  moodId       Int[]
+  userId      String
+  //onDelete: Cascade -> if a user gets deleted all the records of it will be deleted too
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  moods Mood[]
 }
 
 model favBook {
@@ -69,7 +76,10 @@ model favBook {
   image       String?
   category    String
   pageCount   Int?
-  moodId       Int[]
+  userId      String
+  user        User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  moods Mood[]
+  @@index([userId])
 }
 
 model favMovie {
@@ -78,7 +88,10 @@ model favMovie {
   category    String
   overview    String?
   poster_path String?
-  moodId       Int[]
+  userId      String
+  user        User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  moods Mood[]
+  @@index([userId])
 }
 
 model favSong {
@@ -87,11 +100,20 @@ model favSong {
   singerOrComposer String
   image            String?
   url              String?
-  moodId       Int[]
+  userId           String
+  user             User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  moods Mood[]
+  @@index([userId])
 }
 
 model Mood {
-  id        String     @id @default(uuid())
-  name      String     @unique
- 
+  id   String @id @default(uuid())
+  name String @unique
+   books     Book[]
+  movies    Movie[]
+  songs     Song[]
+  myMinds   myMind[]
+  favBooks  favBook[]
+  favMovies favMovie[]
+  favSongs  favSong[]
 }
