@@ -2,6 +2,9 @@
 // learn more about it in the docs: https://pris.ly/d/prisma-schema
 
 // Get a free hosted Postgres database in seconds: `npx create-db`
+// note: these two commands may needed here: 
+//1- npx prisma migrate dev --name add-models or update-models -> new tabales in the PostgreSQL 
+//2-npx prisma generate
 
 generator client {
   provider = "prisma-client"
@@ -11,9 +14,84 @@ generator client {
 datasource db {
   provider = "postgresql"
 }
+
 model User {
-  id        String      @id @default(uuid())
+  id        String   @id @default(uuid())
   email     String   @unique
   name      String?
   createdAt DateTime @default(now())
+}
+
+model Book {
+  id          String  @id @default(uuid())
+  name        String
+  author      String?
+  description String?
+  image       String?
+  category    String
+  pageCount   Int?
+  moodId       Int[]
+}
+
+model Movie {
+  id          String  @id @default(uuid())
+  title       String
+  category    String
+  overview    String?
+  poster_path String?
+  moodId       Int[]
+}
+
+model Song {
+  id               String  @id @default(uuid())
+  title            String
+  singerOrComposer String
+  image            String?
+  url              String?
+  moodId       Int[]
+}
+
+model myMind {
+  id          String    @id @default(uuid())
+  title       String
+  image       String?
+  description String?
+  category    String
+  date        DateTime?
+  moodId       Int[]
+}
+
+model favBook {
+  id          String  @id @default(uuid())
+  name        String
+  author      String?
+  description String?
+  image       String?
+  category    String
+  pageCount   Int?
+  moodId       Int[]
+}
+
+model favMovie {
+  id          String  @id @default(uuid())
+  title       String
+  category    String
+  overview    String?
+  poster_path String?
+  moodId       Int[]
+}
+
+model favSong {
+  id               String  @id @default(uuid())
+  title            String
+  singerOrComposer String
+  image            String?
+  url              String?
+  moodId       Int[]
+}
+
+model Mood {
+  id        String     @id @default(uuid())
+  name      String     @unique
+ 
 }
