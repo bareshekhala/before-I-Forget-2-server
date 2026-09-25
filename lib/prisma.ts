@@ -1,0 +1,11 @@
+// with this we are connecting Node.js to the PostgreSQL DB vis Prisma
+import { PrismaPg } from "@prisma/adapter-pg";
+import { PrismaClient } from "../generated/prisma/client.js"
+import { env } from "../config/env.js";
+
+const connectionString = `${env.DATABASE_URL}`;
+
+const adapter = new PrismaPg({ connectionString });
+const prisma = new PrismaClient({ adapter });
+
+export { prisma };
