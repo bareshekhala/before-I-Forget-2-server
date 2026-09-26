@@ -1,0 +1,1827 @@
+ [
+  {
+    "id": "OL110971W",
+    "title": "Ficciones",
+    "pageCount": 306,
+    "description": "A landmark collection of short stories exploring labyrinths, mirrors, imaginary worlds, identity, time, and the nature of reality.",
+    "image": "https://covers.openlibrary.org/b/id/10832290-M.jpg",
+    "author": "Jorge Luis Borges",
+    "category": "fiction",
+    "moodId": [
+      7,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "OL1960472W",
+    "title": "The Science Fiction Hall of Fame -- Volume One",
+    "pageCount": 334,
+    "description": "A landmark anthology collecting classic science-fiction stories by influential writers including Robert A. Heinlein, Arthur C. Clarke, Isaac Asimov, and Ray Bradbury.",
+    "image": "https://covers.openlibrary.org/b/id/6941459-M.jpg",
+    "author": "Robert Silverberg, Robert A. Heinlein, Arthur C. Clarke, Isaac Asimov, Ray Bradbury",
+    "category": "science-fiction",
+    "moodId": [
+      9,
+      10,
+      7
+    ]
+  },
+  {
+    "id": "OL38494W",
+    "title": "Cryptonomicon",
+    "pageCount": 349,
+    "description": "A sprawling novel connecting World War II codebreakers with a modern-day quest involving cryptography, technology, information, and hidden wealth.",
+    "image": "https://covers.openlibrary.org/b/id/6424001-M.jpg",
+    "author": "Neal Stephenson",
+    "category": "science-fiction",
+    "moodId": [
+      9
+    ]
+  },
+  {
+    "id": "OL35627W",
+    "title": "Wild seed",
+    "pageCount": 240,
+    "description": "A science-fiction novel about two immortal beings whose extraordinary abilities and complicated relationship unfold across centuries of history.",
+    "image": "https://covers.openlibrary.org/b/id/288149-M.jpg",
+    "author": "Octavia E. Butler",
+    "category": "science-fiction",
+    "moodId": [
+      9,
+      10,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "OL679357W",
+    "title": "Smoke and Mirrors",
+    "pageCount": 333,
+    "description": "A collection of dark and imaginative short stories by Neil Gaiman, blending fantasy, horror, mythology, and the uncanny.",
+    "image": "https://covers.openlibrary.org/b/id/6754762-M.jpg",
+    "author": "Neil Gaiman, Richard Chizmar, William Peter Blatty, Kealan Patrick Burke, Brian Keene, Joe Hill, Joe R. Lansdale, Ray Garton",
+    "category": "fantasy",
+    "moodId": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "OL17348681W",
+    "title": "Trigger Warning",
+    "pageCount": 404,
+    "description": "A collection of stories and poems by Neil Gaiman exploring fear, fantasy, mythology, and unsettling moments that blur the boundary between the ordinary and the strange.",
+    "image": "https://covers.openlibrary.org/b/id/8432069-M.jpg",
+    "author": "Neil Gaiman",
+    "category": "fantasy",
+    "moodId": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "OL174492W",
+    "title": "An introduction to fiction",
+    "pageCount": 262,
+    "description": "An introductory study of fiction that examines the elements and techniques used to understand and analyze short stories and other fictional works.",
+    "image": "https://covers.openlibrary.org/b/id/14630218-M.jpg",
+    "author": "Stanton, Robert, R Stanton, R. Stanton, Robert Stanton",
+    "category": "writing",
+    "moodId": [
+      6,
+      9
+    ]
+  },
+  {
+    "id": "OL20283W",
+    "title": "Writing Fiction",
+    "pageCount": 335,
+    "description": "A practical guide to the craft of fiction writing, covering elements such as character, plot, point of view, setting, and the process of developing stories.",
+    "image": "https://covers.openlibrary.org/b/id/9546176-M.jpg",
+    "author": "Janet Burroway, Susan Weinberg, Elizabeth Stuckey-French, Ned Stuckey-French",
+    "category": "writing",
+    "moodId": [
+      6
+    ]
+  },
+  {
+    "id": "OL892508W",
+    "title": "Hothouse",
+    "pageCount": 337,
+    "description": "A far-future science-fiction novel set on an Earth transformed by enormous plant life, where the remaining humans struggle to survive in a radically changed ecosystem.",
+    "image": "https://covers.openlibrary.org/b/id/10952280-M.jpg",
+    "author": "Brian W. Aldiss, Brian W. Aldiss",
+    "category": "science-fiction",
+    "moodId": [
+      9,
+      10,
+      7
+    ]
+  },
+  {
+    "id": "OL2919959W",
+    "title": "The Things They Carried",
+    "pageCount": 376,
+    "description": "A collection of linked stories about American soldiers in the Vietnam War, exploring the physical objects, memories, fears, and emotional burdens they carry.",
+    "image": "https://covers.openlibrary.org/b/id/12639079-M.jpg",
+    "author": "Tim O'Brien",
+    "category": "fiction",
+    "moodId": [
+      7,
+      2,
+      8
+    ]
+  },
+  {
+    "id": "OL8404014W",
+    "title": "Slan",
+    "pageCount": 399,
+    "description": "A classic science-fiction novel about a persecuted group of telepathic humans known as Slans, who struggle to survive in a society that fears them.",
+    "image": "https://covers.openlibrary.org/b/id/5543912-M.jpg",
+    "author": "A. E. van Vogt, Oliver Wyman, Kevin J. Anderson",
+    "category": "science-fiction",
+    "moodId": [
+      9,
+      10,
+      7
+    ]
+  },
+  {
+    "id": "OL46125W",
+    "title": "Foundation",
+    "pageCount": 418,
+    "description": "Isaac Asimov's classic novel follows Hari Seldon's plan to preserve human knowledge and shorten the period of chaos expected after the collapse of the Galactic Empire.",
+    "image": "https://covers.openlibrary.org/b/id/14612610-M.jpg",
+    "author": "Isaac Asimov",
+    "category": "science-fiction",
+    "moodId": [
+      9,
+      10
+    ]
+  },
+  {
+    "id": "OL444723W",
+    "title": "Collected Fictions",
+    "pageCount": 365,
+    "description": "A collection of Jorge Luis Borges's fiction filled with labyrinths, mirrors, imaginary worlds, philosophical puzzles, and stories that challenge the boundary between reality and invention.",
+    "image": "https://covers.openlibrary.org/b/id/13258348-M.jpg",
+    "author": "Jorge Luis Borges",
+    "category": "fiction",
+    "moodId": [
+      7,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "OL273080W",
+    "title": "To your scattered bodies go",
+    "pageCount": 316,
+    "description": "The first Riverworld novel imagines a mysterious planet where all of humanity is resurrected along the banks of a gigantic river, bringing people from different historical periods together.",
+    "image": "https://covers.openlibrary.org/b/id/382159-M.jpg",
+    "author": "Philip José Farmer",
+    "category": "science-fiction",
+    "moodId": [
+      9,
+      10,
+      7
+    ]
+  },
+  {
+    "id": "OL497137W",
+    "title": "How to Write Best-Selling Fiction",
+    "pageCount": 360,
+    "description": "A practical guide to writing commercially successful fiction, covering storytelling, characterization, suspense, plotting, and techniques for engaging readers.",
+    "image": "https://covers.openlibrary.org/b/id/9144523-M.jpg",
+    "author": "Dean Koontz",
+    "category": "writing",
+    "moodId": [
+      6
+    ]
+  },
+  {
+    "id": "OL3287407W",
+    "title": "What if?",
+    "pageCount": 281,
+    "description": "A collection exploring hypothetical situations and imaginative possibilities through fictional scenarios and questions about how different circumstances might unfold.",
+    "image": "https://covers.openlibrary.org/b/id/411367-M.jpg",
+    "author": "Anne Bernays",
+    "category": "writing",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL46396W",
+    "title": "Gold",
+    "pageCount": 317,
+    "description": "A collection of science-fiction stories by Isaac Asimov exploring scientific ideas, technology, space, and the unexpected consequences of human curiosity.",
+    "image": "https://covers.openlibrary.org/b/id/12003991-M.jpg",
+    "author": "Isaac Asimov",
+    "category": "science-fiction",
+    "moodId": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "OL98484W",
+    "title": "Player Piano",
+    "pageCount": 368,
+    "description": "Kurt Vonnegut imagines a future where machines have replaced most human workers, exploring automation, inequality, social class, and the search for purpose.",
+    "image": "https://covers.openlibrary.org/b/id/280246-M.jpg",
+    "author": "Kurt Vonnegut",
+    "category": "science-fiction",
+    "moodId": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "OL46390W",
+    "title": "The Foundation Trilogy",
+    "pageCount": 440,
+    "description": "The trilogy follows the decline of a vast Galactic Empire and Hari Seldon's attempt to preserve civilization and reduce the coming centuries of chaos.",
+    "image": "https://covers.openlibrary.org/b/id/6502517-M.jpg",
+    "author": "Isaac Asimov",
+    "category": "science-fiction",
+    "moodId": [
+      9,
+      10
+    ]
+  },
+  {
+    "id": "OL19074847W",
+    "title": "The Overstory",
+    "pageCount": 413,
+    "description": "The lives of several people intersect through their relationships with trees and forests, forming a story about environmental activism and the hidden complexity of nature.",
+    "image": "https://covers.openlibrary.org/b/id/8758252-M.jpg",
+    "author": "Richard Powers",
+    "category": "fiction",
+    "moodId": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "OL3585129W",
+    "title": "Funhouse",
+    "pageCount": 286,
+    "description": "A horror novel about a group of young people who enter a sinister amusement-park funhouse and discover that the attraction hides a deadly secret.",
+    "image": "https://covers.openlibrary.org/b/id/6694958-M.jpg",
+    "author": "Diane Hoh, Karyn O'Bryant",
+    "category": "horror",
+    "moodId": [
+      8
+    ]
+  },
+  {
+    "id": "OL679359W",
+    "title": "Fragile Things",
+    "pageCount": 281,
+    "description": "A collection of dark and imaginative stories by Neil Gaiman, moving between fantasy, horror, mythology, and the strange corners of everyday life.",
+    "image": "https://covers.openlibrary.org/b/id/46488-M.jpg",
+    "author": "Neil Gaiman",
+    "category": "fantasy",
+    "moodId": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "OL17607742W",
+    "title": "The Power",
+    "pageCount": 179,
+    "description": "A speculative novel in which teenage girls suddenly develop the ability to generate powerful electrical energy, dramatically changing the balance of power between men and women.",
+    "image": "https://covers.openlibrary.org/b/id/7892681-M.jpg",
+    "author": "Naomi Alderman",
+    "category": "science-fiction",
+    "moodId": [
+      7,
+      9,
+      8
+    ]
+  },
+  {
+    "id": "OL2216967W",
+    "title": "The craft of fiction",
+    "pageCount": 448,
+    "description": "A classic study of the art of fiction that examines how writers construct stories and how narrative technique shapes a reader's experience.",
+    "image": "https://covers.openlibrary.org/b/id/9262799-M.jpg",
+    "author": "Percy Lubbock, Percy, Lubbock, Percy Lubbock",
+    "category": "writing",
+    "moodId": [
+      6,
+      9
+    ]
+  },
+  {
+    "id": "OL1682158W",
+    "title": "Leviathan",
+    "pageCount": 344,
+    "description": "A literary novel by Paul Auster about a writer whose life becomes entangled with questions of identity, friendship, politics, and the stories people create about themselves.",
+    "image": "https://covers.openlibrary.org/b/id/3992233-M.jpg",
+    "author": "Paul Auster",
+    "category": "fiction",
+    "moodId": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "OL20866284W",
+    "title": "Azadi",
+    "pageCount": 184,
+    "description": "Arundhati Roy's collection of political essays examines freedom, nationalism, inequality, power, and resistance in contemporary India.",
+    "image": "https://covers.openlibrary.org/b/id/10183951-M.jpg",
+    "author": "Arundhati Roy",
+    "category": "non-fiction",
+    "moodId": [
+      7
+    ]
+  },
+  {
+    "id": "OL17401W",
+    "title": "Earthlight",
+    "pageCount": 412,
+    "description": "Set on the Moon, this science-fiction novel follows an astronomer who becomes involved in a conflict between Earth and the lunar colonies.",
+    "image": "https://covers.openlibrary.org/b/id/3742918-M.jpg",
+    "author": "Arthur C. Clarke",
+    "category": "science-fiction",
+    "moodId": [
+      9,
+      10,
+      7
+    ]
+  },
+  {
+    "id": "OL14958898W",
+    "title": "100 Great Science Fiction Short Short Stories",
+    "pageCount": 315,
+    "description": "An anthology of extremely short science-fiction stories exploring imaginative ideas about technology, society, space, and the future.",
+    "image": "https://covers.openlibrary.org/b/id/12689866-M.jpg",
+    "author": "Isaac Asimov",
+    "category": "science-fiction",
+    "moodId": [
+      9,
+      10,
+      7
+    ]
+  },
+  {
+    "id": "OL17345497W",
+    "title": "The Sympathizer",
+    "pageCount": 390,
+    "description": "A Vietnamese communist spy works undercover among South Vietnamese refugees in America after the fall of Saigon, caught between political loyalties and personal identity.",
+    "image": "https://covers.openlibrary.org/b/id/7913176-M.jpg",
+    "author": "Viet Thanh Nguyen",
+    "category": "fiction",
+    "moodId": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": "OL15130687W",
+    "title": "Chemistry",
+    "pageCount": 444,
+    "description": "An introductory chemistry textbook covering fundamental concepts including atoms, molecules, chemical reactions, energy, and the properties of matter.",
+    "image": "https://covers.openlibrary.org/b/id/9407725-M.jpg",
+    "author": "Theodore L. Brown",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL3792044W",
+    "title": "The Science of Getting Rich",
+    "pageCount": 291,
+    "description": "Wallace Wattles presents a philosophy of wealth based on purposeful thinking, creativity, action, and the belief that people can deliberately shape their financial lives.",
+    "image": "https://covers.openlibrary.org/b/id/854989-M.jpg",
+    "author": "Wallace D. Wattles",
+    "category": "self-help",
+    "moodId": [
+      7,
+      9,
+      6
+    ]
+  },
+  {
+    "title": "Chaos",
+    "author": "James Gleick",
+    "image": "https://covers.openlibrary.org/b/id/94249-M.jpg",
+    "category": "science",
+    "description": "James Gleick tells the story of chaos theory and the scientists who discovered patterns and order within systems that initially appeared random and unpredictable.",
+    "moodId": [
+      9
+    ],
+    "id": "OL15899W"
+  },
+  {
+    "id": "OL14996328W",
+    "title": "Fundamentals of Electricity and Magnetism",
+    "pageCount": 361,
+    "description": "An introduction to the fundamental principles of electricity and magnetism, covering concepts that form the basis of physics and electrical engineering.",
+    "image": "https://covers.openlibrary.org/b/id/5437853-M.jpg",
+    "author": "McGraw-Hill",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL3902892W",
+    "title": "Influence",
+    "pageCount": 262,
+    "description": "Robert Cialdini examines the psychological principles behind persuasion and explains why people say yes in situations involving reciprocity, authority, social proof, and scarcity.",
+    "image": "https://covers.openlibrary.org/b/id/431011-M.jpg",
+    "author": "Robert B. Cialdini",
+    "category": "psychology",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL10951W",
+    "title": "Bad Science",
+    "pageCount": 163,
+    "description": "Ben Goldacre investigates misleading scientific claims in medicine, advertising, journalism, and the pharmaceutical industry, showing how poor evidence can distort public understanding.",
+    "image": "https://covers.openlibrary.org/b/id/6680603-M.jpg",
+    "author": "Ben Goldacre",
+    "category": "science",
+    "moodId": [
+      9
+    ]
+  },
+  {
+    "id": "OL3275955W",
+    "title": "Computer Science",
+    "pageCount": 271,
+    "description": "An introduction to fundamental computer-science concepts including algorithms, data structures, programming, computer architecture, and information systems.",
+    "image": "https://covers.openlibrary.org/b/id/193281-M.jpg",
+    "author": "J. Glenn Brookshear",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL17879515W",
+    "title": "Make It Stick",
+    "pageCount": 329,
+    "description": "A science-based guide to learning that explains how memory works and presents evidence-backed strategies for learning more effectively and retaining information.",
+    "image": "https://covers.openlibrary.org/b/id/8188891-M.jpg",
+    "author": "Peter C. Brown",
+    "category": "psychology",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL66393W",
+    "title": "Environmental Science",
+    "pageCount": 295,
+    "description": "An introduction to environmental systems covering ecosystems, natural resources, pollution, climate change, and the relationship between human societies and the natural world.",
+    "image": "https://covers.openlibrary.org/b/id/10367950-M.jpg",
+    "author": "G. Tyler Miller",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL46214W",
+    "title": "The Intelligent Man's Guide to Science",
+    "pageCount": 384,
+    "description": "Isaac Asimov offers a broad and accessible tour of major scientific ideas, covering subjects from physics and chemistry to biology and astronomy.",
+    "image": "https://covers.openlibrary.org/b/id/13148661-M.jpg",
+    "author": "Isaac Asimov",
+    "category": "science",
+    "moodId": [
+      9
+    ]
+  },
+  {
+    "id": "OL29606W",
+    "title": "Earth Science",
+    "pageCount": 177,
+    "description": "An introductory study of Earth and its systems, covering geology, weather, oceans, natural resources, and the processes that shape our planet.",
+    "image": "https://covers.openlibrary.org/b/id/1108771-M.jpg",
+    "author": "Edward J. Tarbuck",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL15683431W",
+    "title": "Moonwalking with Einstein",
+    "pageCount": 433,
+    "description": "Joshua Foer explores the science and history of memory while documenting his own journey from an ordinary person to a competitive memory champion.",
+    "image": "https://covers.openlibrary.org/b/id/14426425-M.jpg",
+    "author": "Joshua Foer",
+    "category": "psychology",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL17357767W",
+    "title": "Algorithms to Live By",
+    "pageCount": 371,
+    "description": "Brian Christian and Tom Griffiths explain how ideas from computer science and algorithms can help people make better decisions in everyday life.",
+    "image": "https://covers.openlibrary.org/b/id/8042539-M.jpg",
+    "author": "Brian Christian",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL3268935W",
+    "title": "Materials science and engineering",
+    "pageCount": 232,
+    "description": "A foundational textbook explaining the relationship between the structure, properties, processing, and performance of engineering materials.",
+    "image": "https://covers.openlibrary.org/b/id/4031224-M.jpg",
+    "author": "William D. Callister",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL20676292W",
+    "title": "Foundation Science Physics for Class 9",
+    "pageCount": 296,
+    "description": "An introductory physics textbook designed for school students, covering fundamental concepts and principles of physics.",
+    "image": "https://covers.openlibrary.org/b/id/9346507-M.jpg",
+    "author": "H.C. Verma",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL2747493W",
+    "title": "Environmental Science",
+    "pageCount": 225,
+    "description": "An introduction to environmental science covering ecosystems, natural resources, pollution, and the relationship between human activity and the environment.",
+    "image": "https://covers.openlibrary.org/b/id/54238-M.jpg",
+    "author": "William P. Cunningham, Mary Ann Cunningham, Barbara Woodworth Saigo",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL8584971W",
+    "title": "Computer Science",
+    "pageCount": 273,
+    "description": "An introductory work covering fundamental concepts in computer science and the principles behind computing and information processing.",
+    "image": "https://covers.openlibrary.org/b/id/1572574-M.jpg",
+    "author": "Carl French, C. S. French",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL18199470W",
+    "title": "A Mind for Numbers",
+    "pageCount": 219,
+    "description": "Barbara Oakley explains how the brain learns mathematics and other difficult subjects, offering practical techniques for improving learning and problem-solving.",
+    "image": "https://covers.openlibrary.org/b/id/8352403-M.jpg",
+    "author": "Barbara A. Oakley",
+    "category": "psychology",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL15596858W",
+    "title": "The science of nutrition",
+    "pageCount": 252,
+    "description": "An introduction to nutrition that examines nutrients, metabolism, energy, health, and the role of food in maintaining the human body.",
+    "image": "https://covers.openlibrary.org/b/id/10679931-M.jpg",
+    "author": "Janice Thompson",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL4301885W",
+    "title": "Applied mathematics for business, economics, and the social sciences",
+    "pageCount": 327,
+    "description": "A practical mathematics textbook showing how mathematical methods can be applied to problems in business, economics, and the social sciences.",
+    "image": "https://covers.openlibrary.org/b/id/9935503-M.jpg",
+    "author": "Frank S. Budnick",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL1826387W",
+    "title": "Introductory Mathematical Analysis",
+    "pageCount": 263,
+    "description": "An introduction to mathematical analysis covering foundational concepts such as functions, limits, derivatives, and integrals.",
+    "image": "https://covers.openlibrary.org/b/id/10572268-M.jpg",
+    "author": "Ernest F. Haeussler",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL15152112W",
+    "title": "Silver Burdett science",
+    "pageCount": 172,
+    "description": "An educational science book introducing fundamental scientific concepts and helping students understand the natural world.",
+    "image": "https://covers.openlibrary.org/b/id/6562639-M.jpg",
+    "author": "G. Mallinson",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL2694021W",
+    "title": "Introduction to environmental engineering and science",
+    "pageCount": 352,
+    "description": "An introduction to environmental engineering covering pollution control, water and air quality, waste management, and environmental systems.",
+    "image": "https://covers.openlibrary.org/b/id/4036679-M.jpg",
+    "author": "Gilbert M. Masters",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL1922611W",
+    "title": "Mathematical structures for computer science",
+    "pageCount": 442,
+    "description": "A textbook introducing mathematical structures used in computer science, including logic, sets, relations, functions, graphs, and discrete mathematics.",
+    "image": "https://covers.openlibrary.org/b/id/7136779-M.jpg",
+    "author": "Judith L. Gersting",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL2915925W",
+    "title": "Food science",
+    "pageCount": 171,
+    "description": "An introduction to the scientific principles behind food, including its composition, processing, preservation, and physical and chemical changes.",
+    "image": "https://covers.openlibrary.org/b/id/4434138-M.jpg",
+    "author": "Norman N. Potter",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "title": "How We Survived Communism and Even Laughed",
+    "author": "Slavenka Drakulić",
+    "image": "https://covers.openlibrary.org/b/id/11648995-M.jpg",
+    "category": "non-fiction",
+    "description": "Slavenka Drakulić's account of everyday life under communism in Eastern Europe, exploring how ordinary people adapted to political repression, shortages, ideology, and social control. Through personal observations and dark humor, the book examines the human experience behind life under a communist system.",
+    "moodId": [
+      9,
+      2
+    ],
+    "id": 1562116
+  },
+  {
+    "id": "OL4321141W",
+    "title": "The Secret History",
+    "pageCount": 334,
+    "description": "A group of students at an elite college become involved in a secretive world of classical studies, leading to murder, guilt, and the unraveling of their friendships.",
+    "image": "https://covers.openlibrary.org/b/id/744854-M.jpg",
+    "author": "Donna Tartt",
+    "category": "fiction",
+    "moodId": [
+      8,
+      3,
+      7
+    ]
+  },
+  {
+    "id": "OL50283W",
+    "title": "A People's History of the United States",
+    "pageCount": 423,
+    "description": "Howard Zinn presents American history from the perspectives of workers, Indigenous peoples, enslaved people, women, and other groups often marginalized in traditional historical accounts.",
+    "image": "https://covers.openlibrary.org/b/id/10592817-M.jpg",
+    "author": "Howard Zinn",
+    "category": "history",
+    "moodId": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "OL17075811W",
+    "title": "Sapiens",
+    "pageCount": 279,
+    "description": "Yuval Noah Harari traces the history of Homo sapiens from early humans to the modern world, examining the biological, cultural, and technological forces that shaped human societies.",
+    "image": "https://covers.openlibrary.org/b/id/8634250-M.jpg",
+    "author": "Yuval Noah Harari",
+    "category": "history",
+    "moodId": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "OL1892617W",
+    "title": "A Brief History of Time",
+    "pageCount": 232,
+    "description": "Stephen Hawking introduces major ideas in cosmology, including black holes, the Big Bang, space-time, and questions about the origin and nature of the universe.",
+    "image": "https://covers.openlibrary.org/b/id/10432365-M.jpg",
+    "author": "Stephen Hawking",
+    "category": "science",
+    "moodId": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "OL74128W",
+    "title": "A Short History of Nearly Everything",
+    "pageCount": 200,
+    "description": "Bill Bryson explores the history of scientific discovery, explaining how humans came to understand the universe, Earth, life, and our own place in nature.",
+    "image": "https://covers.openlibrary.org/b/id/12725620-M.jpg",
+    "author": "Bill Bryson",
+    "category": "science",
+    "moodId": [
+      9,
+      1
+    ]
+  },
+  {
+    "id": "OL1088357W",
+    "title": "A History of Western Philosophy",
+    "pageCount": 212,
+    "description": "Bertrand Russell traces Western philosophical thought from ancient Greece through modern philosophy, discussing major thinkers and their influence on intellectual history.",
+    "image": "https://covers.openlibrary.org/b/id/405359-M.jpg",
+    "author": "Bertrand Russell",
+    "category": "philosophy",
+    "moodId": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "OL1629183W",
+    "title": "History of the Filipino People",
+    "pageCount": 172,
+    "description": "A broad history of the Philippines examining the development of its people, society, politics, and culture across different periods.",
+    "image": "https://covers.openlibrary.org/b/id/6682021-M.jpg",
+    "author": "Teodoro A. Agoncillo",
+    "category": "history",
+    "moodId": [
+      9
+    ]
+  },
+  {
+    "id": "OL1108523W",
+    "title": "A Study of History",
+    "pageCount": 293,
+    "description": "Arnold Toynbee examines the rise and decline of civilizations and the historical forces that shape societies and their responses to major challenges.",
+    "image": "https://covers.openlibrary.org/b/id/121255-M.jpg",
+    "author": "Arnold J. Toynbee",
+    "category": "history",
+    "moodId": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "OL16026786W",
+    "title": "Salt",
+    "pageCount": 234,
+    "description": "Mark Kurlansky traces the history of salt and shows how this ordinary mineral influenced food, trade, economics, politics, and the development of civilizations.",
+    "image": "https://covers.openlibrary.org/b/id/6873606-M.jpg",
+    "author": "Mark Kurlansky",
+    "category": "history",
+    "moodId": [
+      9
+    ]
+  },
+  {
+    "id": "OL2024851W",
+    "title": "The Enduring Vision",
+    "pageCount": 185,
+    "description": "A survey of American history examining the political, social, economic, and cultural forces that shaped the United States.",
+    "image": "https://covers.openlibrary.org/b/id/8237922-M.jpg",
+    "author": "Paul S. Boyer",
+    "category": "history",
+    "moodId": [
+      9
+    ]
+  },
+  {
+    "id": "OL2056818W",
+    "title": "Maus I",
+    "pageCount": 426,
+    "description": "Art Spiegelman's graphic memoir tells his father's story as a Jewish survivor of the Holocaust while also exploring their difficult relationship.",
+    "image": "https://covers.openlibrary.org/b/id/10210168-M.jpg",
+    "author": "Art Spiegelman",
+    "category": "graphic",
+    "moodId": [
+      8,
+      2
+    ]
+  },
+  {
+    "id": "OL5814543W",
+    "title": "The History of Love",
+    "pageCount": 316,
+    "description": "A moving novel about love, loss, memory, and the mysterious connections between people whose lives become linked through a long-forgotten book.",
+    "image": "https://covers.openlibrary.org/b/id/251178-M.jpg",
+    "author": "Nicole Krauss",
+    "category": "romance",
+    "moodId": [
+      4,
+      3,
+      2
+    ]
+  },
+  {
+    "id": "OL922430W",
+    "title": "Sophie's World",
+    "pageCount": 422,
+    "description": "A teenage girl begins receiving mysterious lessons in philosophy that take her through the history of Western thought while turning her own life into a philosophical mystery.",
+    "image": "https://covers.openlibrary.org/b/id/223463-M.jpg",
+    "author": "Jostein Gaarder",
+    "category": "fiction",
+    "moodId": [
+      7,
+      9,
+      6
+    ]
+  },
+  {
+    "id": "OL15100470W",
+    "title": "At Home",
+    "pageCount": 359,
+    "description": "Bill Bryson explores the history of domestic life, revealing how ordinary rooms, objects, technologies, and household practices developed over centuries.",
+    "image": "https://covers.openlibrary.org/b/id/8579619-M.jpg",
+    "author": "Bill Bryson",
+    "category": "history",
+    "moodId": [
+      3,
+      9,
+      1
+    ]
+  },
+  {
+    "id": "OL1073956W",
+    "title": "The Lessons of History",
+    "pageCount": 425,
+    "description": "Will and Ariel Durant draw on their study of world history to examine recurring patterns in civilization, war, economics, politics, and human behavior.",
+    "image": "https://covers.openlibrary.org/b/id/7240225-M.jpg",
+    "author": "Will Durant, Ariel Durant",
+    "category": "history",
+    "moodId": [
+      7,
+      6,
+      9
+    ]
+  },
+  {
+    "id": "OL3477033W",
+    "title": "A history of the modern world",
+    "pageCount": 378,
+    "description": "A broad history of the modern world examining the political, economic, social, and intellectual developments that shaped the contemporary era.",
+    "image": "https://covers.openlibrary.org/b/id/6286058-M.jpg",
+    "author": "R. R. Palmer, Palmer, Joel G. Colton",
+    "category": "history",
+    "moodId": [
+      9
+    ]
+  },
+  {
+    "id": "OL29921W",
+    "title": "Art history",
+    "pageCount": 268,
+    "description": "A comprehensive introduction to art history examining major artists, artworks, movements, periods, and the cultural contexts in which art was created.",
+    "image": "https://covers.openlibrary.org/b/id/596109-M.jpg",
+    "author": "Marilyn Stokstad, Margaret A. Oppenheimer",
+    "category": "non-fiction",
+    "moodId": [
+      6,
+      9
+    ]
+  },
+  {
+    "id": "OL15678068W",
+    "title": "Ἱστορίαι",
+    "pageCount": 290,
+    "description": "Herodotus's pioneering historical work recounts the conflicts between Greeks and Persians while describing the cultures, customs, and peoples of the ancient world.",
+    "image": "https://covers.openlibrary.org/b/id/9829028-M.jpg",
+    "author": "Ἡρόδοτος",
+    "category": "history",
+    "moodId": [
+      9
+    ]
+  },
+  {
+    "id": "OL16305918W",
+    "title": "The History and Culture of Pakistan",
+    "pageCount": 318,
+    "description": "An introduction to the history and cultural development of Pakistan, covering major events, traditions, peoples, and political changes.",
+    "image": "https://covers.openlibrary.org/b/id/6974595-M.jpg",
+    "author": "Nigel Kelly",
+    "category": "history",
+    "moodId": [
+      6,
+      9
+    ]
+  },
+  {
+    "id": "OL26443093W",
+    "title": "Babel",
+    "pageCount": 237,
+    "description": "Set in nineteenth-century Oxford, this historical fantasy follows a young scholar at the Royal Institute of Translation and explores language, colonialism, power, and rebellion.",
+    "image": "https://covers.openlibrary.org/b/id/12468631-M.jpg",
+    "author": "R. F. Kuang",
+    "category": "fantasy",
+    "moodId": [
+      9,
+      10,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "OL15413799W",
+    "title": "Zero History",
+    "pageCount": 435,
+    "description": "A techno-thriller following characters drawn into a secretive fashion business while navigating corporate intrigue, surveillance, technology, and underground networks.",
+    "image": "https://covers.openlibrary.org/b/id/7072428-M.jpg",
+    "author": "William Gibson",
+    "category": "fiction",
+    "moodId": [
+      8,
+      7,
+      9
+    ]
+  },
+  {
+    "id": "OL8074094W",
+    "title": "Historical Atlas of the World",
+    "pageCount": 442,
+    "description": "A visual history of the world using maps to show changing borders, civilizations, nations, and political landscapes across different periods.",
+    "image": "https://covers.openlibrary.org/b/id/4617698-M.jpg",
+    "author": "History",
+    "category": "history",
+    "moodId": [
+      9
+    ]
+  },
+  {
+    "id": "OL19666939W",
+    "title": "The Silk Roads",
+    "pageCount": 378,
+    "description": "Peter Frankopan retells world history through the networks of trade and cultural exchange that connected Europe, Asia, and the Middle East along the Silk Roads.",
+    "image": "https://covers.openlibrary.org/b/id/8963642-M.jpg",
+    "author": "Peter Frankopan",
+    "category": "history",
+    "moodId": [
+      9
+    ]
+  },
+  {
+    "id": "OL480820W",
+    "title": "America",
+    "pageCount": 162,
+    "description": "A broad history of the United States examining its political development, society, conflicts, and transformation from the colonial period to the modern era.",
+    "image": "https://covers.openlibrary.org/b/id/253170-M.jpg",
+    "author": "George Brown Tindall, David Emory Shi",
+    "category": "history",
+    "moodId": [
+      9
+    ]
+  },
+  {
+    "id": "OL17762235W",
+    "title": "The Gene",
+    "pageCount": 384,
+    "description": "Siddhartha Mukherjee traces the history of genetics and explores how our understanding of genes has transformed medicine, biology, and our ideas about human identity.",
+    "image": "https://covers.openlibrary.org/b/id/8912677-M.jpg",
+    "author": "Siddhartha Mukherjee, Dennis Boutsikaris",
+    "category": "science",
+    "moodId": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "OL15692701W",
+    "title": "Wille zur Macht",
+    "pageCount": 336,
+    "description": "A collection of Nietzsche's notes and reflections addressing power, morality, values, and the development of his philosophical thought.",
+    "image": "https://covers.openlibrary.org/b/id/6995217-M.jpg",
+    "author": "Friedrich Nietzsche",
+    "category": "philosophy",
+    "moodId": [
+      7
+    ]
+  },
+  {
+    "id": "OL98172W",
+    "title": "The complete works of Friedrich Nietzsche",
+    "pageCount": 350,
+    "description": "A collected edition presenting Nietzsche's philosophical writings and ideas across his career, including his challenges to conventional morality and values.",
+    "image": "https://covers.openlibrary.org/b/id/5586642-M.jpg",
+    "author": "Friedrich Nietzsche",
+    "category": "philosophy",
+    "moodId": [
+      7
+    ]
+  },
+  {
+    "id": "OL498793W",
+    "title": "Tagebücher",
+    "pageCount": 353,
+    "description": "Kafka's diaries provide an intimate record of his thoughts, observations, literary ambitions, personal struggles, and reflections on everyday life.",
+    "image": "https://covers.openlibrary.org/b/id/995503-M.jpg",
+    "author": "Franz Kafka",
+    "category": "non-fiction",
+    "moodId": [
+      2,
+      7
+    ]
+  },
+  {
+    "id": "OL7xK42Qp",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "pageCount": 223,
+    "description": "On his birthday, Harry Potter discovers that he is the son of two well-known wizards, from whom he has inherited magical powers. He must attend a famous school of magic and sorcery, where he establishes a friendship with two young men who will become his companions on his adventure. During his first year at Hogwarts, he discovers that a malevolent and powerful wizard named Voldemort is in search of a philosopher's stone that prolongs the life of its owner.",
+    "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/1.png",
+    "author": "J.K. Rowling",
+    "category": "fantasy",
+    "moodId": [
+      9,
+      10,
+      3,
+      1
+    ]
+  },
+  {
+    "id": "Qm38Lz9Rt",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "pageCount": 251,
+    "description": "Harry Potter and the sophomores investigate a malevolent threat to their Hogwarts classmates, a menacing beast that hides within the castle.",
+    "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/2.png",
+    "author": "J.K. Rowling",
+    "category": "fantasy",
+    "moodId": [
+      9,
+      10,
+      3
+    ]
+  },
+  {
+    "id": "B5vN81Xa",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "pageCount": 317,
+    "description": "Harry's third year of studies at Hogwarts is threatened by Sirius Black's escape from Azkaban prison. Apparently, it is a dangerous wizard who was an accomplice of Lord Voldemort and who will try to take revenge on Harry Potter.",
+    "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/3.png",
+    "author": "J.K. Rowling",
+    "category": "fantasy",
+    "moodId": [
+      9,
+      10,
+      3
+    ]
+  },
+  {
+    "id": "Tq64Wp2Ms",
+    "title": "Harry Potter and the Goblet of Fire",
+    "pageCount": 636,
+    "description": "Hogwarts prepares for the Triwizard Tournament, in which three schools of wizardry will compete. To everyone's surprise, Harry Potter is chosen to participate in the competition, in which he must fight dragons, enter the water and face his greatest fears.",
+    "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/4.png",
+    "author": "J.K. Rowling",
+    "category": "fantasy",
+    "moodId": [
+      9,
+      10,
+      3,
+      8
+    ]
+  },
+  {
+    "id": "H9rC27Vke",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "pageCount": 766,
+    "description": "In his fifth year at Hogwarts, Harry discovers that many members of the wizarding community do not know the truth about his encounter with Lord Voldemort. Cornelius Fudge, Minister of Magic, appoints Dolores Umbridge as Defense Against the Dark Arts teacher because he believes that Professor Dumbledore plans to take over his job. But his teachings are inadequate, so Harry prepares the students to defend the school against evil.",
+    "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/5.png",
+    "author": "J.K. Rowling",
+    "category": "fantasy",
+    "moodId": [
+      9,
+      10,
+      8,
+      3
+    ]
+  },
+  {
+    "id": "N4sYp73Dc",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "pageCount": 607,
+    "description": "Harry discovers a powerful book and, while trying to discover its origins, collaborates with Dumbledore in the search for a series of magical objects that will aid in the destruction of Lord Voldemort.",
+    "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/6.png",
+    "author": "J.K. Rowling",
+    "category": "fantasy",
+    "moodId": [
+      9,
+      10,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "W8fG21Kmb",
+    "title": "Harry Potter and the Deathly Hallows",
+    "pageCount": 607,
+    "description": "Harry, Ron and Hermione go on a dangerous mission to locate and destroy the secret of Voldemort's immortality and destruction - the Horcruces. Alone, without the guidance of their teachers or the protection of Professor Dumbledore, the three friends must lean on each other more than ever. But there are Dark Forces in between that threaten to tear them apart. Harry Potter is getting closer and closer to the task for which he has been preparing since the first day he set foot in Hogwarts: the last battle with Voldemort.",
+    "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/7.png",
+    "author": "J.K. Rowling",
+    "category": "fantasy",
+    "moodId": [
+      9,
+      10,
+      8,
+      3
+    ]
+  },
+  {
+    "id": "Zp46Mx8Lu",
+    "title": "Harry Potter and the Cursed Child",
+    "pageCount": 336,
+    "description": "Harry's second son entered Hogwarts, but in Slytherin. His relationship with Harry is getting worse and he became close friends with Draco's son, Scorpius Malfoy who is said to be Lord Voldemort's son.",
+    "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/8.png",
+    "author": "J.K. Rowling",
+    "category": "fantasy",
+    "moodId": [
+      9,
+      10,
+      3
+    ]
+  },
+  {
+    "id": 3001,
+    "title": "The Plague",
+    "pageCount": 308,
+    "description": "A devastating epidemic isolates the city of Oran and forces its inhabitants to confront suffering, death, solidarity, and the meaning of human existence.",
+    "image": "https://covers.openlibrary.org/b/id/14950707-L.jpg",
+    "author": "Albert Camus",
+    "category": "fiction",
+    "moodId": [
+      2,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 3002,
+    "title": "The Trial",
+    "pageCount": 255,
+    "description": "Josef K. is suddenly arrested without being told his crime and becomes trapped in a surreal and incomprehensible legal system.",
+    "image": "https://covers.openlibrary.org/b/id/15082861-L.jpg",
+    "author": "Franz Kafka",
+    "category": "fiction",
+    "moodId": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": 3003,
+    "title": "Frankenstein",
+    "pageCount": 280,
+    "description": "A young scientist creates a living being and must face the devastating consequences of his ambition, isolation, and rejection.",
+    "image": "https://covers.openlibrary.org/b/id/12513880-L.jpg",
+    "author": "Mary Wollstonecraft Shelley",
+    "category": "science-fiction",
+    "moodId": [
+      8,
+      7,
+      9
+    ]
+  },
+  {
+    "id": 3004,
+    "title": "Rebecca",
+    "pageCount": 448,
+    "description": "A young woman marries a wealthy widower and moves into his estate, where the memory of his first wife continues to haunt everyone around her.",
+    "image": "https://covers.openlibrary.org/b/id/15049576-L.jpg",
+    "author": "Daphne du Maurier",
+    "category": "romance",
+    "moodId": [
+      4,
+      8,
+      2
+    ]
+  },
+  {
+    "id": 3005,
+    "title": "The Wonderful Wizard of Oz",
+    "pageCount": 259,
+    "description": "Dorothy is swept away to a magical land where she travels with unlikely companions in search of a way home.",
+    "image": "https://covers.openlibrary.org/b/id/15121797-L.jpg",
+    "author": "L. Frank Baum",
+    "category": "fantasy",
+    "moodId": [
+      10,
+      9,
+      1
+    ]
+  },
+  {
+    "id": 3006,
+    "title": "Alice's Adventures in Wonderland",
+    "pageCount": 200,
+    "description": "Alice falls down a rabbit hole and enters a strange world filled with impossible creatures, strange logic, and unforgettable characters.",
+    "image": "https://covers.openlibrary.org/b/id/8595954-L.jpg",
+    "author": "Lewis Carroll",
+    "category": "fantasy",
+    "moodId": [
+      10,
+      9,
+      1
+    ]
+  },
+  {
+    "id": 3007,
+    "title": "Moby-Dick",
+    "pageCount": 720,
+    "description": "Captain Ahab obsessively hunts the great white whale Moby Dick, leading his crew into a dangerous journey across the sea.",
+    "image": "https://covers.openlibrary.org/b/id/12621992-L.jpg",
+    "author": "Herman Melville",
+    "category": "fiction",
+    "moodId": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "id": 3008,
+    "title": "Demian",
+    "pageCount": 176,
+    "description": "A young man's journey toward self-discovery leads him to question morality, identity, society, and the boundaries between good and evil.",
+    "image": "https://covers.openlibrary.org/b/id/14858668-L.jpg",
+    "author": "Hermann Hesse",
+    "category": "fiction",
+    "moodId": [
+      7,
+      2
+    ]
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "image": "https://covers.openlibrary.org/b/id/14899879-M.jpg",
+    "category": "fiction",
+    "description": "An aging Cuban fisherman, Santiago, struggles against the sea and a giant marlin in a test of endurance, courage, and determination. Through his solitary battle, Hemingway explores perseverance, dignity, pride, failure, and the complex relationship between human beings and nature.",
+    "moodId": [
+      3,
+      7,
+      2
+    ],
+    "id": 50992824
+  },
+  {
+    "id": 3009,
+    "title": "Siddhartha",
+    "pageCount": 152,
+    "description": "A young man leaves his familiar life behind and searches for spiritual wisdom, inner peace, and his own understanding of existence.",
+    "image": "https://covers.openlibrary.org/b/id/6562532-L.jpg",
+    "author": "Hermann Hesse",
+    "category": "fiction",
+    "moodId": [
+      5,
+      7,
+      6
+    ]
+  },
+  {
+    "id": 3010,
+    "title": "The Second Sex",
+    "pageCount": 832,
+    "description": "A landmark philosophical examination of women's social position, identity, freedom, and the cultural construction of femininity.",
+    "image": "https://covers.openlibrary.org/b/id/15164891-L.jpg",
+    "author": "Simone de Beauvoir",
+    "category": "philosophy",
+    "moodId": [
+      7,
+      6
+    ]
+  },
+  {
+    "id": 3011,
+    "title": "Twenty Love Poems and a Song of Despair",
+    "pageCount": 96,
+    "description": "A celebrated collection of passionate poems exploring love, desire, loneliness, memory, and heartbreak.",
+    "image": "https://covers.openlibrary.org/b/id/599333-L.jpg",
+    "author": "Pablo Neruda",
+    "category": "poetry",
+    "moodId": [
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 3012,
+    "title": "The Setting Sun",
+    "pageCount": 192,
+    "description": "A melancholic story of a family struggling with social change, loss, identity, and the collapse of an old way of life.",
+    "image": "https://covers.openlibrary.org/b/id/597824-L.jpg",
+    "author": "Osamu Dazai",
+    "category": "fiction",
+    "moodId": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 3013,
+    "title": "The Picture of Dorian Gray",
+    "pageCount": 254,
+    "description": "A beautiful young man becomes obsessed with preserving his youth while a mysterious portrait records the moral corruption of his life.",
+    "image": "https://covers.openlibrary.org/b/id/14314700-L.jpg",
+    "author": "Oscar Wilde",
+    "category": "fiction",
+    "moodId": [
+      8,
+      7
+    ]
+  },
+  {
+    "id": 3014,
+    "title": "Murder on the Orient Express",
+    "pageCount": 274,
+    "description": "Hercule Poirot investigates a mysterious murder aboard a luxurious train where every passenger appears to have a secret.",
+    "image": "https://covers.openlibrary.org/b/id/14561973-L.jpg",
+    "author": "Agatha Christie",
+    "category": "mystery",
+    "moodId": [
+      9,
+      8
+    ]
+  },
+  {
+    "id": 3015,
+    "title": "Circe",
+    "pageCount": 393,
+    "description": "A retelling of the life of the Greek goddess Circe, exploring transformation, power, exile, love, and finding one's own identity.",
+    "image": "https://covers.openlibrary.org/b/id/8283869-L.jpg",
+    "author": "Madeline Miller",
+    "category": "fantasy",
+    "moodId": [
+      10,
+      7,
+      4
+    ]
+  },
+  {
+    "id": 3016,
+    "title": "Goodnight Punpun",
+    "pageCount": 418,
+    "description": "A dark coming-of-age story following Punpun through childhood, adolescence, relationships, loneliness, and the difficult realities of adulthood.",
+    "image": "https://covers.openlibrary.org/b/id/10530430-L.jpg",
+    "author": "Inio Asano",
+    "category": "graphic",
+    "moodId": [
+      8,
+      2,
+      7
+    ]
+  },
+  {
+    "id": 3017,
+    "title": "No Longer Human",
+    "pageCount": 176,
+    "description": "A tragic exploration of alienation, identity, shame, and a man's inability to feel connected to the society around him.",
+    "image": "https://covers.openlibrary.org/b/id/15142271-L.jpg",
+    "author": "Osamu Dazai",
+    "category": "fiction",
+    "moodId": [
+      2,
+      8,
+      7
+    ]
+  },
+  {
+    "id": 3018,
+    "title": "Happening",
+    "pageCount": 96,
+    "description": "A powerful autobiographical account of a young woman's experience with an illegal abortion and the social pressures surrounding it.",
+    "image": "https://covers.openlibrary.org/b/id/7961325-L.jpg",
+    "author": "Annie Ernaux",
+    "category": "non-fiction",
+    "moodId": [
+      2,
+      7
+    ]
+  },
+  {
+    "id": 3019,
+    "title": "Free to Choose: A Personal Statement",
+    "pageCount": 338,
+    "description": "Milton and Rose Friedman explain their views on individual freedom, economic choice, markets, government, and personal responsibility.",
+    "image": "https://covers.openlibrary.org/b/id/10457483-L.jpg",
+    "author": "Milton Friedman",
+    "category": "non-fiction",
+    "moodId": [
+      7,
+      6,
+      9
+    ]
+  },
+  {
+    "id": 3020,
+    "title": "The Death of Ivan Ilyich",
+    "pageCount": 86,
+    "description": "A dying man confronts his life, mortality, regret, and the possibility of discovering genuine meaning before death.",
+    "image": "https://covers.openlibrary.org/b/id/368393-L.jpg",
+    "author": "Leo Tolstoy",
+    "category": "fiction",
+    "moodId": [
+      2,
+      7
+    ]
+  },
+  {
+    "id": 3021,
+    "title": "The Unbearable Lightness of Being",
+    "pageCount": 320,
+    "description": "A philosophical novel about love, infidelity, freedom, political upheaval, and the weight or lightness of human existence.",
+    "image": "https://covers.openlibrary.org/b/id/10817951-L.jpg",
+    "author": "Milan Kundera",
+    "category": "fiction",
+    "moodId": [
+      7,
+      4,
+      2
+    ]
+  },
+  {
+    "id": "pR7kL3x",
+    "title": "My Last Sigh",
+    "pageCount": 256,
+    "description": "Luis Buñuel writes lyrically and passionately about his middle-class boyhood in Spain, his years as an engineering student in Madrid, his involvement in the surrealist movement, his time in Paris, his relationships with artists such as Max Ernst, Picasso, and André Breton, and his experiences during the Spanish Civil War. The book also focuses on his long and distinguished cinematic career.",
+    "image": "https://covers.openlibrary.org/b/id/254235-L.jpg",
+    "author": "Luis Buñuel",
+    "category": "non-fiction",
+    "moodId": [
+      3,
+      9
+    ]
+  },
+  {
+    "id": "xQ4mT7k",
+    "title": "Astronomy Made Simple",
+    "pageCount": 228,
+    "description": "This edition doesn't have a description yet.",
+    "image": "https://covers.openlibrary.org/b/id/4448310-L.jpg",
+    "author": "Meir H. Degani",
+    "category": "science",
+    "moodId": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": 3022,
+    "title": "Shahnameh: The Persian Book of Kings",
+    "pageCount": 928,
+    "description": "Ferdowsi's monumental national epic tells the story of ancient Persia through legendary kings, heroes, wars, love, betrayal, courage, and tragedy.",
+    "image": "https://covers.openlibrary.org/b/id/12875818-L.jpg",
+    "author": "Ferdowsi",
+    "category": "poetry",
+    "moodId": [
+      3,
+      7,
+      10
+    ]
+  },
+  {
+    "id": 3023,
+    "title": "Divan Shams",
+    "pageCount": 82,
+    "description": "A vast collection of Rumi's mystical lyric poetry, centered on divine love, longing, spiritual transformation, and his profound connection with Shams of Tabriz.",
+    "image": "https://images.thalia.media/-/BF2000-2000/2814441944f1463c8502048af56d4223/divan-of-shams-of-tabriz-taschenbuch-jalal-al-din-rumi-englisch.jpeg",
+    "author": "Rumi",
+    "category": "poetry",
+    "moodId": [
+      4,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 3024,
+    "title": "The Masnavi",
+    "pageCount": 600,
+    "description": "A monumental work of mystical poetry combining stories, parables, spiritual teachings, and reflections on the journey toward divine love and wisdom.",
+    "image": "https://covers.openlibrary.org/b/id/7500110-L.jpg",
+    "author": "Rumi",
+    "category": "poetry",
+    "moodId": [
+      5,
+      7,
+      6
+    ]
+  },
+  {
+    "id": "bN6tQ2x",
+    "title": "Dissolving Classroom",
+    "pageCount": 202,
+    "description": "A pair of twisted siblings—Yuuma, a young man obsessed with the devil, and Chizumi, the worst little sister in recorded history—cause all sorts of tragic and terrifying things to happen wherever they go. These scary short stories shock with a literal interpretation of the ills that plague modern society.",
+    "image": "https://covers.openlibrary.org/b/id/12499195-L.jpg",
+    "author": "Junji Itō",
+    "category": "graphic",
+    "moodId": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": 3025,
+    "title": "Rubaiyat",
+    "pageCount": 240,
+    "description": "A celebrated collection of quatrains reflecting on mortality, fate, time, love, pleasure, uncertainty, and the fleeting nature of life.",
+    "image": "https://m.media-amazon.com/images/I/51Q5nzJIpKL.jpg",
+    "author": "Khayyam",
+    "category": "poetry",
+    "moodId": [
+      2,
+      7,
+      3
+    ]
+  },
+  {
+    "id": 3026,
+    "title": "The Conference of the Birds",
+    "pageCount": 216,
+    "description": "An allegorical Sufi poem in which a gathering of birds embarks on a spiritual quest for the Simurgh, exploring themes of divine love, self-discovery, sacrifice, and the journey toward spiritual enlightenment.",
+    "image": "https://covers.openlibrary.org/b/id/103977-L.jpg",
+    "author": "Attar of Nishabur ",
+    "category": "poetry",
+    "moodId": [
+      5,
+      7,
+      6
+    ]
+  },
+  {
+    "id": "jnRpMyC",
+    "title": "Existential Psychotherapy",
+    "pageCount": 480,
+    "description": "A comprehensive exploration of existential psychotherapy centered on four fundamental concerns of human existence: death, freedom, existential isolation, and meaninglessness.",
+    "image": "https://covers.openlibrary.org/b/id/7004995-L.jpg",
+    "author": "Irvin D. Yalom",
+    "category": "psychology",
+    "moodId": [
+      7,
+      6,
+      9
+    ]
+  },
+  {
+    "id": "qR7mK2a",
+    "title": "Nineteen Eighty-Four",
+    "pageCount": 460,
+    "description": "Portrays life in a future time when a totalitarian government watches over all citizens and directs all activities.",
+    "image": "https://covers.openlibrary.org/b/id/12693610-L.jpg",
+    "author": "George Orwell",
+    "category": "fiction",
+    "moodId": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": "kP4xT9m",
+    "title": "Animal Farm",
+    "pageCount": 118,
+    "description": "A farm is taken over by its overworked, mistreated animals. With flaming idealism and stirring slogans, they set out to create a paradise of progress, justice, and equality. The stage is set for a satiric fable that records the evolution from revolution against tyranny to a totalitarianism just as terrible.",
+    "image": "https://covers.openlibrary.org/b/id/15246098-L.jpg",
+    "author": "George Orwell",
+    "category": "fiction",
+    "moodId": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": "vN8kR3p",
+    "title": "A Beast Slinks Towards Beijing",
+    "pageCount": 360,
+    "description": "A dark, magical realist debut family saga that moves through the Japanese occupation of Manchuria, the Cultural Revolution, and the present day to explore the effects of intergenerational trauma, the legacy of colonialism, and the inescapability of fate.",
+    "image": "https://covers.openlibrary.org/b/id/15220657-L.jpg",
+    "author": "Alice Evelyn Yang",
+    "category": "fiction",
+    "moodId": [
+      9,
+      10,
+      8
+    ]
+  },
+  {
+    "id": "hK6pR9x",
+    "title": "Thus Spoke Zarathustra",
+    "pageCount": 368,
+    "description": "A landmark work of philosophy and literature, Thus Spoke Zarathustra is the fullest expression of Nietzsche's belief in the development of humanity through its highest individuals. Zarathustra, the archetypal Übermensch, leaves his home for the mountains and explores ideas beyond conventional standards of good and evil.",
+    "image": "https://covers.openlibrary.org/b/id/5639596-L.jpg",
+    "author": "Friedrich Nietzsche",
+    "category": "philosophy",
+    "moodId": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "rT8mK4q",
+    "title": "Crime and Punishment",
+    "pageCount": 671,
+    "description": "Crime and Punishment tells the story of Rodion Raskolnikov, an ex-student who plans to murder a pawnbroker to test his theory of personality. Having accomplished the deed, Raskolnikov struggles with mental anguish while trying to avoid the consequences and hide his guilt from his friends and family.",
+    "image": "https://covers.openlibrary.org/b/id/12622046-L.jpg",
+    "author": "Fyodor Dostoevsky",
+    "category": "fiction",
+    "moodId": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": "zL5mQ8r",
+    "title": "One Hundred Years of Solitude",
+    "pageCount": 432,
+    "description": "A novel that narrates the vicissitudes of Aureliano Buendía in the mythical town of Macondo. The story follows the Buendía family across seven generations and blends elements of fiction and reality in the style of magical realism.",
+    "image": "https://covers.openlibrary.org/b/id/10454740-L.jpg",
+    "author": "Gabriel García Márquez",
+    "category": "fiction",
+    "moodId": [
+      3,
+      10,
+      2
+    ]
+  },
+  {
+    "id": 5832147,
+    "title": "A Game of Thrones",
+    "pageCount": 710,
+    "description": "An epic fantasy novel set in Westeros, where powerful families struggle for the Iron Throne amid political intrigue, betrayal, war, loyalty, and supernatural threats.",
+    "image": "https://covers.openlibrary.org/b/id/15128814-M.jpg",
+    "author": "George R. R. Martin",
+    "category": "fantasy",
+    "moodId": [
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "id": 7416293,
+    "title": "The Psychology of Money",
+    "pageCount": 242,
+    "description": "A collection of stories and lessons about how people think about money, wealth, investing, risk, happiness, and financial decisions.",
+    "image": "https://covers.openlibrary.org/b/id/15215448-M.jpg",
+    "author": "Morgan Housel",
+    "category": "self-help",
+    "moodId": [
+      6,
+      7,
+      9
+    ]
+  },
+  {
+    "id": 3268159,
+    "title": "The Subtle Art of Not Giving a Fuck",
+    "pageCount": 256,
+    "description": "A practical and unconventional approach to happiness, personal values, responsibility, failure, boundaries, and accepting the difficulties of life.",
+    "image": "https://covers.openlibrary.org/b/id/15161037-M.jpg",
+    "author": "Mark Manson",
+    "category": "self-help",
+    "moodId": [
+      6,
+      7
+    ]
+  },
+  {
+    "title": "Fourth Wing",
+    "author": "Rebecca Yarros",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS09u153tfSzoTH-XAInED07gyI3AdHmtFrra695psf-g&s",
+    "category": "fantasy",
+    "description": "A fantasy adventure about a young woman forced to enter an elite war college for dragon riders, where she faces danger, rivalry, romance, secrets, and a growing threat to her kingdom.",
+    "moodId": [
+      10,
+      4,
+      8,
+      9
+    ],
+    "id": 9154372
+  },
+  {
+    "id": 6248135,
+    "title": "The Stranger",
+    "pageCount": 162,
+    "description": "A philosophical novel about Meursault, an emotionally detached man whose life is transformed by a violent act, exploring absurdity, alienation, death, and society's expectations.",
+    "image": "https://covers.openlibrary.org/b/id/15118287-M.jpg",
+    "author": "Albert Camus",
+    "category": "fiction",
+    "moodId": [
+      7,
+      8,
+      2,
+      9
+    ]
+  },
+  {
+    "id": 8372514,
+    "title": "Blindness",
+    "pageCount": 540,
+    "description": "A mysterious epidemic of blindness spreads rapidly through a city, forcing people into quarantine and exposing the darkest and most primitive aspects of human behavior, survival, morality, and society.",
+    "image": "https://covers.openlibrary.org/b/id/10428436-M.jpg",
+    "author": "José Saramago",
+    "category": "fiction",
+    "moodId": [
+      8,
+      7,
+      2,
+      9
+    ]
+  },
+  {
+    "title": "Metamorphosis",
+    "author": "Franz Kafka",
+    "image": "https://covers.openlibrary.org/b/id/15200982-M.jpg",
+    "category": "fiction",
+    "description": "Gregor Samsa wakes one morning to find himself inexplicably transformed into a monstrous insect. As he struggles to adapt to his new existence, his relationship with his family deteriorates, exploring alienation, isolation, identity, guilt, and the conditional nature of human relationships.",
+    "moodId": [
+      8,
+      7,
+      2
+    ],
+    "id": 24506210
+  },
+  {
+    "id": 58936271,
+    "title": "Man's Search for Meaning",
+    "pageCount": 242,
+    "description": "Viktor Frankl's memoir of his experiences in Nazi concentration camps and his development of logotherapy. The book examines suffering, survival, freedom, responsibility, and the human search for meaning, arguing that people can choose how they respond to even the most difficult circumstances.",
+    "image": "https://covers.openlibrary.org/b/id/15102812-M.jpg",
+    "author": "Viktor E. Frankl",
+    "category": "psychology",
+    "moodId": [
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 37044756,
+    "title": "The Gadfly",
+    "pageCount": null,
+    "description": "Set in 1840s Italy under Austrian rule, the novel follows the Gadfly, a witty political satirist who becomes involved with revolutionary forces. It explores revolution, loyalty, love, religion, political struggle, and resistance to authority.",
+    "image": "https://covers.openlibrary.org/b/id/12622074-M.jpg",
+    "author": "Ethel Lilian Voynich",
+    "category": "fiction",
+    "moodId": [
+      8,
+      7,
+      2
+    ]
+  }
+]

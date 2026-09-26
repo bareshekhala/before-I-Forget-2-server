@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Happy"
+  },
+  {
+    "id": 2,
+    "name": "Melancholic"
+  },
+  {
+    "id": 3,
+    "name": "Nostalgic"
+  },
+  {
+    "id": 4,
+    "name": "Romantic"
+  },
+  {
+    "id": 5,
+    "name": "Calm"
+  },
+  {
+    "id": 6,
+    "name": "Self-improvement"
+  },
+  {
+    "id": 7,
+    "name": "Philosophical"
+  },
+  {
+    "id": 8,
+    "name": "Dark"
+  },
+  {
+    "id": 9,
+    "name": "Curious"
+  },
+  {
+    "id": 10,
+    "name": "Fantasy"
+  }
+]
