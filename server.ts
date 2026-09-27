@@ -1,6 +1,6 @@
 import express, { type Express } from 'express';
 
-// .env is checked with zod inside config/env.ts
+// .env is loaded and checked inside config/env.ts
 import { env } from "./config/env.js";
 import config from "./config/index.js";
 import indexRouter from "./Routes/index.routes.js";

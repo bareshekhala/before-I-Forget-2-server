@@ -71,7 +71,7 @@ model myMind {
 
 model favBook {
   id          String  @id @default(uuid())
-  name        String
+  title        String
   author      String?
   description String?
   image       String?

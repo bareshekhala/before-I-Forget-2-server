@@ -1,14 +1,16 @@
-//here we check the .env file inputs with zod
-
+// here we read the .env file and make sure nothing important is missing
 import "dotenv/config";
-import { z } from "zod";
 
-const envSchema = z.object({
-  DATABASE_URL: z.string().min(1),
-  DIRECT_URL: z.string().min(1),
-  PORT: z.coerce.number().default(8008), //what we get from .env is string => we change it to number
-  NODE_ENV: z.enum(["development", "production", "test"]).default("development"),
-  ORIGIN:z.string()
-});
+function required(name: string): string {
+  const value = process.env[name];
+  if (!value) throw new Error(`${name} is missing in the .env file`);
+  return value;
+}
 
-export const env = envSchema.parse(process.env);
+export const env = {
+  DATABASE_URL: required("DATABASE_URL"),
+  DIRECT_URL: required("DIRECT_URL"),
+  ORIGIN: required("ORIGIN"),
+  PORT: Number(process.env.PORT) || 8008,
+  NODE_ENV: process.env.NODE_ENV || "development",
+};
