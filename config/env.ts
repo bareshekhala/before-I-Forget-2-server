@@ -13,4 +13,6 @@ export const env = {
   ORIGIN: required("ORIGIN"),
   PORT: Number(process.env.PORT) || 8008,
   NODE_ENV: process.env.NODE_ENV || "development",
+  SUPABASE_PUBLISHABLE_KEY: required("SUPABASE_PUBLISHABLE_KEY"),
+  SUPABASE_URL: required("SUPABASE_URL")
 };
