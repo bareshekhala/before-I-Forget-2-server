@@ -56,17 +56,24 @@ model Song {
   moods Mood[]
 }
 
+enum myMindCategory {
+  THOUGHT
+  DREAM
+  MEMORY
+  WEBSITE
+}
 model myMind {
   id          String    @id @default(uuid())
   title       String
   image       String?
   description String?
-  category    String
   date        DateTime?
   userId      String
   //onDelete: Cascade -> if a user gets deleted all the records of it will be deleted too
   user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
   moods Mood[]
+  category myMindCategory
+   @@index([userId])
 }
 
 model favBook {

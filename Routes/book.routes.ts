@@ -5,7 +5,6 @@ const router = express.Router();
 
 //favBooks
 
-// every /favbooks route needs a logged-in user
 router.use("/favbooks", verifyToken);
 
 //Get -> api/books/favbooks -> all the books that were added by the user
@@ -51,7 +50,15 @@ router.patch("/favbooks/:favbookId", async (req, res, next) => {
       return;
     }
 
-    const { title, author, description, image, category, pageCount, moods } = req.body;
+    const { title, author, description, image, category, pageCount, moods = [] } = req.body;
+    
+    if (!title || !category || moods.length === 0) {
+      res
+        .status(400)
+        .json({ message: "Title, category and moods are required" });
+      return;
+    }
+
     const response = await prisma.favBook.update({
       where: { id: favbookId },
       data: {
