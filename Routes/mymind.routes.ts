@@ -73,15 +73,36 @@ router.get("/websites", async (req, res, next) => {
   }
 });
 
+router.get("/:mymindId", async (req, res, next) => {
+  try {
+    const { mymindId } = req.params;
+    const response = await prisma.myMind.findUnique({
+      where: { id: mymindId, userId: res.locals.payload.id },
+      include: { moods: true },
+    });
+    if (!response) {
+      res.status(404).json({ message: "it is not found in your Archive" });
+      return;
+    }
+    res.status(200).json(response);
+  } catch (error) {
+    next(error);
+  }
+});
+
 //Post -> /api/mymind -> add a new object
 router.post("/", async (req, res, next) => {
   try {
-    const { title, image, description, date, category, moods = [] } = req.body;
-    if (!title || !categories.includes(category)) {
+    const { title, image, description, url, date, category, moods = [] } = req.body;
+    if (!title || !categories.includes(category) || moods.length === 0) {
       res.status(400).json({
         message:
-          "Title and a valid category (THOUGHT, DREAM, MEMORY, WEBSITE) are required",
+          "Title, a valid category (THOUGHT, DREAM, MEMORY, WEBSITE) and moods are required",
       });
+      return;
+    }
+    if (url && !url.startsWith("http://") && !url.startsWith("https://")) {
+      res.status(400).json({ message: "The Link is not Valid" });
       return;
     }
 
@@ -91,6 +112,7 @@ router.post("/", async (req, res, next) => {
         title,
         image,
         description,
+        url: url || null,
         date: date ? new Date(date) : null,
         category,
         moods: { connect: moods.map((name: string) => ({ name })) },
@@ -115,12 +137,16 @@ router.patch("/:mymindId", async (req, res, next) => {
       return;
     }
 
-    const { title, image, description, date, category, moods } = req.body;
-    if (!title || !categories.includes(category)) {
+    const { title, image, description, url, date, category, moods = [] } = req.body;
+    if (!title || !categories.includes(category) || moods.length === 0) {
       res.status(400).json({
         message:
-          "Title and a valid category (THOUGHT, DREAM, MEMORY, WEBSITE) are required",
+          "Title, a valid category (THOUGHT, DREAM, MEMORY, WEBSITE) and moods are required",
       });
+      return;
+    }
+    if (url && !url.startsWith("http://") && !url.startsWith("https://")) {
+      res.status(400).json({ message: "The link has to start with http:// or https://" });
       return;
     }
 
@@ -130,10 +156,10 @@ router.patch("/:mymindId", async (req, res, next) => {
         title,
         image,
         description,
+        url: url || null,
         category,
         date: date === undefined ? undefined : date ? new Date(date) : null,
-        // not sent -> keep the old moods
-        moods: moods ? { set: moods.map((name: string) => ({ name })) } : undefined,
+        moods: { set: moods.map((name: string) => ({ name })) },
       },
       include: { moods: true },
     });

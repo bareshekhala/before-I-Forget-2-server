@@ -67,6 +67,7 @@ model myMind {
   title       String
   image       String?
   description String?
+  url         String?
   date        DateTime?
   userId      String
   //onDelete: Cascade -> if a user gets deleted all the records of it will be deleted too
