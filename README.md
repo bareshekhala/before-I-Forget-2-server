@@ -1,6 +1,6 @@
 # Before I Forget — API
 
-**Live API:** https://before-i-forget-2-server.vercel.app/api
+**Live API:** https://before-i-forget-2-server.vercel.app
 
 **Client:** https://before-i-forget-app.vercel.app/
 
