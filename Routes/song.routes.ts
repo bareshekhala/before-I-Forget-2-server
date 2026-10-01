@@ -5,7 +5,7 @@ const router = express.Router();
 
 //favSongs
 
-// every /favsongs route needs a logged-in user
+//favsongs route needs a logged-in user
 router.use("/favsongs", verifyToken);
 
 //Get -> api/songs/favsongs -> all the songs that were added by the user
@@ -52,10 +52,10 @@ router.patch("/favsongs/:favsongId", async (req, res, next) => {
     }
 
     const { title, singerOrComposer, image, url, moods = [] } = req.body;
-    if (!title || !singerOrComposer || moods.length === 0) {
+    if (!title || moods.length === 0) {
       res
         .status(400)
-        .json({ message: "Title, singer/composer and moods are required" });
+        .json({ message: "Title and moods are required" });
       return;
     }
 
@@ -63,7 +63,7 @@ router.patch("/favsongs/:favsongId", async (req, res, next) => {
       where: { id: favsongId },
       data: {
         title,
-        singerOrComposer,
+        singerOrComposer: singerOrComposer || null,
         image,
         url,
         moods: moods ? { set: moods.map((name: string) => ({ name })) } : undefined,
@@ -86,10 +86,10 @@ router.post("/favsongs", async (req, res, next) => {
       url,
       moods = [],
     } = req.body;
-    if (!title || !singerOrComposer || moods.length === 0) {
+    if (!title || moods.length === 0) {
       res
         .status(400)
-        .json({ message: "Title, singer/composer and moods are required" });
+        .json({ message: "Title and moods are required" });
       return;
     }
 
@@ -97,7 +97,7 @@ router.post("/favsongs", async (req, res, next) => {
       data: {
         userId: res.locals.payload.id,
         title,
-        singerOrComposer,
+        singerOrComposer: singerOrComposer || null,
         image,
         url,
         moods: { connect: moods.map((name: string) => ({ name })) },

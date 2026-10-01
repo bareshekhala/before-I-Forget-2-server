@@ -105,7 +105,7 @@ model favMovie {
 model favSong {
   id               String  @id @default(uuid())
   title            String
-  singerOrComposer String
+  singerOrComposer String?
   image            String?
   url              String?
   userId           String
